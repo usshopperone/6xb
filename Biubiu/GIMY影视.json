@@ -50,10 +50,10 @@
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<li",
-  "bfyjiequshuzuhou": "/li>",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
   "bfbiaotiqian": ">",
-  "bfbiaotihou": "</",
+  "bfbiaotihou": "<",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
